@@ -24,26 +24,3 @@ This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/mast
 > Un uruguayo developer jaja
 
 ### 🏠 [Homepage](https://bairesrp.net/)
-
-## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
-
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
