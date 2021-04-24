@@ -1,20 +1,4 @@
 <h1 align="center">🌎 | Bienvido/a a mi Perfil! 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-
-  <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/AgusUruguayo/AgusUruguayo" />
-  </a>
-  <a href="https://twitter.com/agusj2k" target="_blank">
-    <img alt="Twitter: agusj2k" src="https://img.shields.io/twitter/follow/agusj2k.svg?style=social" />
-  </a>
-</p>
 
 [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)               [![N|Solid](https://cdn.discordapp.com/attachments/806248904534392923/835604795850096650/Sin-titulo-1.png)](https://discord.gg/bairesrp)
 
