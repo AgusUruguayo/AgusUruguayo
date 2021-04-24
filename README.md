@@ -20,6 +20,4 @@
 Copyright © 2021 [Agus#1502](https://github.com/AgusUruguayo).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
-> Un uruguayo developer jaja
-
 ### 🏠 [Homepage](https://bairesrp.net/)
