@@ -1,13 +1,10 @@
 <h1 align="center">🌎 | Bienvido/a a mi Perfil! 👋</h1>
 
-[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)
-
 ## 👔 Sobre mi:
 
-* 🖤 Discord: **Agus#1502**
-* 🐤 Twitter: [@agusj2k](https://twitter.com/agusj2k) 
-* 🔔 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
-
+* 🌎 Uruguay, Montevideo
+* 👤 M
+* 🎉 17y
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
