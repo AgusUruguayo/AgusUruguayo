@@ -24,6 +24,6 @@
 
 * 📀 **Discord:** [Invite link](https://discord.gg/bairesrp)
 * 🐤 **Twitter:** [@bairesroleplay](https://twitter.com/bairesroleplay)
-* 📷 **Instagram:** [@faguuu](https://instagram.com/bairesroleplay)
+* 📷 **Instagram:** [@bairesroleplay](https://instagram.com/bairesroleplay)
 * 💻 **GitHub:** [@bairesroleplay](https://github.com/bairesroleplay/)
 * 🏠 **Website:** [BA:RP Web](https://bairesrp.net/)
