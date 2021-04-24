@@ -7,7 +7,7 @@
 
 ## 🌀 Social Networks
 
-[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835612051211943946/Twitter.png)](https://discord.gg/bairesrp) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835611377758502952/Instagram.png)](https://discord.gg/bairesrp) 
+[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835617267366232125/Twitttttttter.png)](https://discord.gg/bairesrp) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835611377758502952/Instagram.png)](https://discord.gg/bairesrp) 
 
 * 📀 Discord: **Agus#1502**
 * 🐤 Twitter: [@agusj2k](https://twitter.com/agusj2k)
