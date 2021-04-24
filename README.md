@@ -5,7 +5,6 @@
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
@@ -16,6 +15,9 @@
     <img alt="Twitter: agusj2k" src="https://img.shields.io/twitter/follow/agusj2k.svg?style=social" />
   </a>
 </p>
+
+[![N|Solid](https://cdn.discordapp.com/attachments/806248904534392923/835604795850096650/Sin-titulo-1.png)](https://discord.gg/bairesrp)
+
 
 > Un uruguayo developer jaja
 
