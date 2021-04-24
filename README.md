@@ -18,7 +18,9 @@
 
 ## 💻 [BA:RP]
 
-Copyright © 2021 [Agus#1502](https://github.com/AgusUruguayo).<br />
+![alt text](https://cdn.discordapp.com/attachments/812719955417366550/835621374357012500/BAIRESRP.png)
+
+Working at **bairesroleplay:** [@agusj2k](https://twitter.com/agusj2k) © 2021 [Agus#1502](https://github.com/AgusUruguayo).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
 
 ### 🏠 [Homepage](https://bairesrp.net/)
