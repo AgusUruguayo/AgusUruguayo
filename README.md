@@ -4,10 +4,9 @@
 
 ## 👔 Sobre mi:
 
-👤 **Agus#1502**
-
-* Twitter: [@agusj2k](https://twitter.com/agusj2k) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)
-* GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
+* 🖤 Discord: [@agusj2k](https://twitter.com/agusj2k) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)
+* 🐤 Twitter: [@agusj2k](https://twitter.com/agusj2k) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)
+* 🔰 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
 
 ## 🤝 Contributing
 
