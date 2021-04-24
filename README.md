@@ -20,7 +20,7 @@
 
 ![alt text](https://cdn.discordapp.com/attachments/812719955417366550/835621374357012500/BAIRESRP.png)
 
-Working at **bairesroleplay:** 
+📁 FiveM Dev working at **bairesroleplay:** 
 
 * 📀 **Discord:** [Invite link](https://discord.gg/bairesrp)
 * 🐤 **Twitter:** [@bairesroleplay](https://twitter.com/bairesroleplay)
