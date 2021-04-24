@@ -8,7 +8,7 @@
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
 
-[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835609382909247508/Twitter.png)](https://discord.gg/bairesrp)
+[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835610763300438106/Twitter.png)](https://discord.gg/bairesrp)
 
 ## Show your support
 
