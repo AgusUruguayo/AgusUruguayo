@@ -7,8 +7,8 @@
 
 ## 🌀 Social Networks
 
-[N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835618183452295238/TWITTITITITI.png)
-[N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835619247434629180/Instagram.png)
+![alt text](https://cdn.discordapp.com/attachments/812719955417366550/835618183452295238/TWITTITITITI.png)
+![alt text](https://cdn.discordapp.com/attachments/812719955417366550/835619247434629180/Instagram.png)
 
 * 📀 **Discord:** **Agus#1502**
 * 🐤 **Twitter:** [@agusj2k](https://twitter.com/agusj2k)
