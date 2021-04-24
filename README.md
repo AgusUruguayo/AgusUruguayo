@@ -2,7 +2,7 @@
 
 [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)
 
-## 👚 Sobre mi:
+## 👔 Sobre mi:
 
 👤 **Agus#1502**
 
