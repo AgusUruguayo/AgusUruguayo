@@ -4,7 +4,7 @@
 
 ## 👔 Sobre mi:
 
-* 🖤 Discord: Agus#1502
+* 🖤 Discord: **Agus#1502**
 * 🐤 Twitter: [@agusj2k](https://twitter.com/agusj2k) 
 * 🔰 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
 
