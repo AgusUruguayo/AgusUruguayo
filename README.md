@@ -16,7 +16,7 @@
   </a>
 </p>
 
-[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp) [![N|Solid](https://cdn.discordapp.com/attachments/806248904534392923/835604795850096650/Sin-titulo-1.png)](https://discord.gg/bairesrp)
+[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835606280591769620/Sin-titulo-1.png)](https://discord.gg/bairesrp)               [![N|Solid](https://cdn.discordapp.com/attachments/806248904534392923/835604795850096650/Sin-titulo-1.png)](https://discord.gg/bairesrp)
 
 
 
