@@ -15,7 +15,7 @@
 * 💻 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
 
 
-## 📝 Main Repository
+## 💻 [BA:RP]
 
 Copyright © 2021 [Agus#1502](https://github.com/AgusUruguayo).<br />
 This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
