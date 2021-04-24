@@ -12,7 +12,7 @@
 * 📷 Instagram: [@faguuu](https://instagram.com/faguuu)
 * 💻 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
 
-[![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835609382909247508/Twitter.png)](https://discord.gg/bairesrp) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835611377758502952/Instagram.png)](https://discord.gg/bairesrp) 
+[![N|Solid](https://media.discordapp.net/attachments/812719955417366550/835610763300438106/Twitter.png)](https://discord.gg/bairesrp) [![N|Solid](https://cdn.discordapp.com/attachments/812719955417366550/835611377758502952/Instagram.png)](https://discord.gg/bairesrp) 
 
 ## Show your support
 
