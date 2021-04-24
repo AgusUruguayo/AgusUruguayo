@@ -1,9 +1,9 @@
 <h1 align="center">🌎 | Bienvido/a a mi Perfil! 👋</h1>
 
-## 👔 Sobre mi:
+## 🔎 About me:
 
-* 🌎 Country: Uruguay, Montevideo
-* 🎉 Age: 17
+* 🌎 **Country:** Uruguay, Montevideo
+* 🎉 **Age:** 17
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
