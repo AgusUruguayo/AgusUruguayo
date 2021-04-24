@@ -6,7 +6,7 @@
 
 * 🖤 Discord: **Agus#1502**
 * 🐤 Twitter: [@agusj2k](https://twitter.com/agusj2k) 
-* 🔰 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
+* 🔔 GitHub: [@AgusUruguayo](https://github.com/AgusUruguayo)
 
 ## 🤝 Contributing
 
