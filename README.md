@@ -7,9 +7,7 @@
 
 ## 🌀 Social Networks
 
-* 📀 **Discord:** **Agus#1502**
-* 🐤 **Twitter:** [@agusj2k](https://twitter.com/agusj2k)
-* 📷 **Instagram:** [@faguuu](https://instagram.com/faguuu)
+* 📀 **Discord:** **Agus#9011**
 * 💻 **GitHub:** [@AgusUruguayo](https://github.com/AgusUruguayo)
 
 
