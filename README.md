@@ -2,8 +2,7 @@
 
 ## 🔎 About me:
 
-* 🌎 **Country:** Uruguay, Montevideo
-* 🎉 **Age:** 17
+* 🌎 **Country:** Uruguay
 
 ## 🌀 Social Networks
 
