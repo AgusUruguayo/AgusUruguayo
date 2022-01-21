@@ -14,6 +14,9 @@
 [<img align="left" alt="AgusUruguayo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AgusUruguayo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+## GitHub Stats.
+
+![AgusUruguayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusuruguayo&show_icons=true&theme=radical)
 <br />
 
 </details>
