@@ -1,9 +1,9 @@
 ### Hi there, I'm Agus - aka [AgusUruguayo][website] 👋 
 
-[![Website](https://img.shields.io/website?label=uruguayo.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uruguayo.me)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://uruguayo.me)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faguuu)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAgusUruguayoo&screen_name=AgusUruguayoo)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]**Agus#3333**
-
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bairesrp)
 
 ## About me.
 
