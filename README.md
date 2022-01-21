@@ -1,4 +1,8 @@
-### Hi there, I'm Agus - aka [AgusUruguayo][website] 👋 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+AgusUruguayo....;&center=true&size=30">
+  </a>
+</h1>
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://uruguayo.me)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faguuu)
