@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=uruguayo.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://uruguayo.me)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAgusUruguayoo&screen_name=AgusUruguayoo)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]**Agus#3333**
+
 
 ## About me.
 
