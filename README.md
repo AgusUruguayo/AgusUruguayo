@@ -8,6 +8,12 @@
 - 🧠 I’m currently learning everything
 - 💻 Worked as developer on [@bairesroleplay][barp].
 
+
+## GitHub Stats.
+
+![AgusUruguayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusuruguayo&show_icons=true&theme=radical)
+
+<br />
 ### Connect with me:
 
 [<img align="left" alt="uruguayo.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -15,14 +21,6 @@
 [<img align="left" alt="AgusUruguayo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-
-## GitHub Stats.
-
-![AgusUruguayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusuruguayo&show_icons=true&theme=radical)
-
-<br />
-
 </details>
 
 [website]: https://uruguayo.me
