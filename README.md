@@ -8,7 +8,6 @@
 - 🧠 I’m currently learning everything
 - 💻 Worked as developer on [@bairesroleplay][barp].
 
-
 ## GitHub Stats.
 
 ![AgusUruguayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusuruguayo&show_icons=true&theme=radical)
