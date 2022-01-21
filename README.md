@@ -17,7 +17,6 @@
 
 <br />
 
-
 </details>
 
 [website]: https://uruguayo.me
