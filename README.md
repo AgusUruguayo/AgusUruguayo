@@ -17,7 +17,7 @@
 ## About me.
 
 - 🧠 I’m currently learning everything
-- 💻 Worked as developer on [@bairesroleplay][barp].
+- 💻 Developer on [@bairesroleplay][barp].
 
 ## GitHub Stats.
 
